@@ -1,0 +1,46 @@
+/* Completely different styles with red, black, and green colors */
+
+body {
+    background-color: #1b1b1b;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  header {
+    background-color: #ff3333;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #1b1b1b;
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #4caf50;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  a {
+    color: #ff3333;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  

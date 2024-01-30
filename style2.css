@@ -1,0 +1,45 @@
+/* Completely different styles */
+
+body {
+    background-color: #f0f0f0;
+    color: #333333;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  header {
+    background-color: #66cc66;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #ffffff;
+  }
+  
+  nav a {
+    color: #333333;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #66cc66;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  a {
+    color: #3399ff;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  
